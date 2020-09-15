@@ -1,0 +1,6 @@
+## This file can NOT have any animation instructions. It probably shouldn't even have this text.
+##
+## The clock "animation" can have any number of frames.
+## The first frame must be indicating high-noon.
+## Each frame should be slightly clockwise (logically) from the starting position.
+## The animation should go full circle until it's nearly back to its starting position.
