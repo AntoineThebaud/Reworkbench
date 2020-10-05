@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": [
+		"normal": [
 			{"model": "block/gold_ore"  },
 			{"model": "block/gold_ore_1"},
 			{"model": "block/gold_ore_2"},

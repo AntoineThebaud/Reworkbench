@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": [
+		"normal": [
 			{"model": "block/lapis_ore"  },
 			{"model": "block/lapis_ore_1"},
 			{"model": "block/lapis_ore_2"},

@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": [
+		"normal": [
 			{"model": "block/diamond_ore"  },
 			{"model": "block/diamond_ore_1"},
 			{"model": "block/diamond_ore_2"},
