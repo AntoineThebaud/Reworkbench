@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": [
+		"normal": [
 			{"model": "block/coal_ore"  },
 			{"model": "block/coal_ore_1"},
 			{"model": "block/coal_ore_2"},

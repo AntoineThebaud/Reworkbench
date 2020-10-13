@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"": [
+		"normal": [
 			{"model": "block/emerald_ore"  },
 			{"model": "block/emerald_ore_1"},
 			{"model": "block/emerald_ore_2"},
