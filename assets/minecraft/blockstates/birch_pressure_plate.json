@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "powered=false": [
+        { "model": "minecraft:block/birch_pressure_plate"   },
+        { "model": "minecraft:block/birch_pressure_plate_1" }
+    ],
+    "powered=true": [
+        { "model": "minecraft:block/birch_pressure_plate_down"   },
+        { "model": "minecraft:block/birch_pressure_plate_down_1" }
+    ]
+  }
+}
