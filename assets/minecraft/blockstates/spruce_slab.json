@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "type=bottom": [
+            { "model": "minecraft:block/spruce_slab"   },
+            { "model": "minecraft:block/spruce_slab_1" }
+        ],
+        "type=double": [
+            { "model": "minecraft:block/spruce_planks"   },
+            { "model": "minecraft:block/spruce_planks_1" }
+        ],
+        "type=top": [
+            { "model": "minecraft:block/spruce_slab_top"   },
+            { "model": "minecraft:block/spruce_slab_top_1" }
+        ]
+    }
+}
