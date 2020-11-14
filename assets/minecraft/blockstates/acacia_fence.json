@@ -1,0 +1,46 @@
+{
+    "multipart": [
+        {
+            "apply": [
+                { "model": "minecraft:block/acacia_fence_post"   },
+                { "model": "minecraft:block/acacia_fence_post_1" }
+            ]
+        },
+        {
+            "when": {
+                "north": "true"
+            },
+            "apply": [
+                { "model": "minecraft:block/acacia_fence_side",   "uvlock": true },
+                { "model": "minecraft:block/acacia_fence_side_1", "uvlock": true }
+            ]
+        },
+        {
+            "when": {
+                "east": "true"
+            },
+            "apply": [
+                { "model": "minecraft:block/acacia_fence_side",   "y": 90, "uvlock": true },
+                { "model": "minecraft:block/acacia_fence_side_1", "y": 90, "uvlock": true }
+            ]
+        },
+        {
+            "when": {
+                "south": "true"
+            },
+            "apply": [
+                { "model": "minecraft:block/acacia_fence_side",   "y": 180, "uvlock": true },
+                { "model": "minecraft:block/acacia_fence_side_1", "y": 180, "uvlock": true }
+            ]
+        },
+        {
+            "when": {
+                "west": "true"
+            },
+            "apply": [
+                { "model": "minecraft:block/acacia_fence_side",   "y": 270, "uvlock": true },
+                { "model": "minecraft:block/acacia_fence_side_1", "y": 270, "uvlock": true }
+            ]
+        }
+    ]
+}
