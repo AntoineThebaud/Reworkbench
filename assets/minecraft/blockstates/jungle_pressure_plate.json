@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "powered=false": [
+        { "model": "minecraft:block/jungle_pressure_plate"   },
+        { "model": "minecraft:block/jungle_pressure_plate_1" }
+    ],
+    "powered=true": [
+        { "model": "minecraft:block/jungle_pressure_plate_down"   },
+        { "model": "minecraft:block/jungle_pressure_plate_down_1" }
+    ]
+  }
+}
