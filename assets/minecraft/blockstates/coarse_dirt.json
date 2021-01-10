@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/coarse_dirt"             },
+            { "model": "minecraft:block/coarse_dirt", "x": 90    },
+            { "model": "minecraft:block/coarse_dirt", "x": 180   },
+            { "model": "minecraft:block/coarse_dirt", "x": 270   },
+            { "model": "minecraft:block/coarse_dirt_1"           },
+            { "model": "minecraft:block/coarse_dirt_1", "x": 90  },
+            { "model": "minecraft:block/coarse_dirt_1", "x": 180 },
+            { "model": "minecraft:block/coarse_dirt_1", "x": 270 },
+            { "model": "minecraft:block/coarse_dirt_2"           },
+            { "model": "minecraft:block/coarse_dirt_2", "x": 90  },
+            { "model": "minecraft:block/coarse_dirt_2", "x": 180 },
+            { "model": "minecraft:block/coarse_dirt_2", "x": 270 },
+            { "model": "minecraft:block/coarse_dirt_3"           },
+            { "model": "minecraft:block/coarse_dirt_3", "x": 90  },
+            { "model": "minecraft:block/coarse_dirt_3", "x": 180 },
+            { "model": "minecraft:block/coarse_dirt_3", "x": 270 }
+        ]
+    }
+}
