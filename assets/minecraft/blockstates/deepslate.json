@@ -1,0 +1,330 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "x": 90,
+        "y": 90,
+        "weight": 1
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/deepslate",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "y": 180,
+        "weight": 1
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "x": 90,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "x": 90,
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_1_mirrored",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_2_mirrored",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_3_mirrored",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "x": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/deepslate_4_mirrored",
+        "x": 90,
+        "y": 180,
+        "weight": 1
+      }
+    ]
+  }
+}
